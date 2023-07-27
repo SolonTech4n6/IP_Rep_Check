@@ -4,7 +4,7 @@ This python script parses IPv4 addresses from text based files and submits them 
 
 Script Options 
 
-'-o', '--output_path'  - The path to store the output file ip_report.cvs.'
+'-o', '--output_path'  - The path to store the output file ip_report.cvs.
 '-f', '--input_file' -  The path to the input file containing IP addresses to check.
 '-d', '--directory'  The path to the directory containing files to check for IP addresses
 
